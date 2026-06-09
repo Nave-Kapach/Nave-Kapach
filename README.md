@@ -13,5 +13,5 @@ A 2nd-year Computer Science student passionate about software development, compl
 - Custom FPV Drones: Designing and assembling drones from scratch, including flight controllers and telemetry setup.
 
 📫 How to reach me:
-- LinkedIn: [Link to your LinkedIn]
+- LinkedIn: https://www.linkedin.com/in/nave-kapach-367b183a5/?skipRedirect=true
 - Email: navekapach14321@gmail.com
