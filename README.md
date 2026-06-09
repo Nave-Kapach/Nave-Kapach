@@ -1,16 +1,17 @@
-## Hi there 👋
+Hi there! 👋 I'm Nave Kapach
 
-<!--
-**Nave-Kapach/Nave-Kapach** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A 2nd-year Computer Science student passionate about software development, complex data structures, and hardware-software integration. I bring a unique background combining academic coding projects with hands-on technical experience in tactical UAV systems.
 
-Here are some ideas to get you started:
+🛠️ Tech Stack & Skills:
+- Languages: C, Python, Java, C++ (Fundamentals)
+- Concepts: OOP, Memory Management, Data Structures
+- Hardware/Systems: Hardware-Software Integration, Betaflight, Radxa, FPV Drones
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Featured Projects:
+- Latent Space Explorer (Java/Python): Visualizing semantic distances and word embeddings using PCA.
+- Music Library Management System (C++): An OOP-based system focusing on memory management and the Rule of Five.
+- Custom FPV Drones: Designing and assembling drones from scratch, including flight controllers and telemetry setup.
+
+📫 How to reach me:
+- LinkedIn: [Link to your LinkedIn]
+- Email: navekapach14321@gmail.com
